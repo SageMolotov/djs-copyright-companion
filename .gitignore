@@ -1,0 +1,14 @@
+# Ignore Python temporary files
+__pycache__/
+
+# Ignore virtual environment folder
+/venv/
+
+# Ignore local database file
+*.db
+
+# Ignore any temporary files
+*.pyc
+
+# Ignore the music folder
+music_to_watch/
